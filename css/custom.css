@@ -1,0 +1,15 @@
+.appVersion p {
+  color: slategray;
+  background-color: white;
+  margin-bottom: 0px;
+  padding: 10px;
+}
+material-toolbar {
+  min-height: 48px;
+  height: 48px;
+}
+material-sidenav {
+  max-width: 175px;
+  min-width: 175px;
+  overflow: hidden;
+}
